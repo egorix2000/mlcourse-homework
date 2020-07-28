@@ -4,9 +4,9 @@
 
 ![ODS stickers](https://github.com/Yorko/mlcourse.ai/blob/master/img/ods_stickers.jpg)
 
-In this repository, I store my work on **[mlcourse.ai](https://mlcourse.ai) (Open Machine Learning Course)**.
-
 </div>
+
+In this repository, I store my work on **[mlcourse.ai](https://mlcourse.ai) (Open Machine Learning Course)**.
 
 ### Topics
 1. Exploratory Data Analysis with Pandas 
